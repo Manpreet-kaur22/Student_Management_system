@@ -32,7 +32,7 @@ This project demonstrates the use of Python classes, file handling, and modular 
 ---
 
 ## 📂 Project Structure
-
+```
 student_management_system/
 │
 ├── main.py
@@ -40,7 +40,7 @@ student_management_system/
 ├── student_manager.py
 ├── students.json
 └── README.md
-
+```
 ---
 
 ## ⚙️ How to Run the Project
